@@ -13,9 +13,7 @@ Languages: Python, C++, SQL, JavaScript
 Frameworks & Libraries: PyTorch, TensorFlow, Scikit-Learn, OpenCV, MediaPipe, Flask
 OCR Tools: Tesseract, EasyOCR
 Tools: Git, Docker, Streamlit, Jupyter Notebooks
-📊 GitHub Stats
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kbhumik27&show_icons=true&theme=radical)
+
 ### 📚 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kbhumik27&layout=compact&theme=radical)
 
