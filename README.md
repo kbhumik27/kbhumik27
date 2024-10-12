@@ -20,6 +20,6 @@ Welcome to my GitHub! I'm a passionate AI/ML developer with a deep interest in s
 
 
 ### 📚 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kbhumik27&layout=compact&theme=radical)
 
 ---
