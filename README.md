@@ -43,32 +43,22 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
 
 ---
 
-## 🛠️ Technologies & Tools
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/6c192b56-53b4-43fc-805b-ef975a180669" alt="image" width="150" />
-    </td>
-    <td>
-      ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-      ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-      ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
-      ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-    </td>
-  </tr>
-</table>
+### Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 ---
 
 ## 📊 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kbhumik27&layout=compact&theme=radical)
 
-
----
-
-
 ---
 
 ### 🌟 Let's Connect!  
 Feel free to explore my projects, share feedback, or collaborate on exciting AI/ML initiatives!  
-📩 [Email](mailto:kapsb27@gmail.com) | 🌟 [Follow Me](https://github.com/kbhumik27)
+📩 [Email](mailto:kapsb27@gmail.com) | 🌟 [Follow Me](https://github.com/kbhumik27)  
