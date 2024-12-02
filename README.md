@@ -46,26 +46,23 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
 ## 🛠️ Technologies & Tools
 <table>
   <tr>
-    
-      <td><img src="https://github.com/user-attachments/assets/6c192b56-53b4-43fc-805b-ef975a180669" alt="image" /> </td>
-
-</tr>
-<tr>
-  <td>
-  
-    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-    ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
-    ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6c192b56-53b4-43fc-805b-ef975a180669" alt="image" width="150" />
+    </td>
+    <td>
+      ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+      ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+      ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+      ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+    </td>
+  </tr>
+</table>
 
 ---
 
-    ## 📊 Most Used Languages  
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kbhumik27&layout=compact&theme=radical)
+## 📊 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kbhumik27&layout=compact&theme=radical)
 
-  </td>
-</tr>
-</table>
 
 ---
 
