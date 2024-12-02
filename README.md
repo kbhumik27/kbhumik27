@@ -53,12 +53,12 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
     <td>
       <h3>Programming Languages</h3>
       <ul>
-        <li> ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-       <li> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-       <li> ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-       <li> ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-        <li>![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-        <li>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+        <li> ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) </li>  
+        <li> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) </li>  
+        <li> ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) </li>  
+        <li> ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) </li>  
+        <li> ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) </li>  
+        <li> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) </li>
       </ul>
     </td>
   </tr>
@@ -69,25 +69,28 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
     <td>
       <h3>Frameworks & Libraries</h3>
       <ul>
-        <li> ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) </li> 
-       <li>  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)</li>  
-        <li> ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)</li>  
-        <li> ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  </li>
-        <li> ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFE730?style=flat-square&logo=mediapipe&logoColor=black)</li></ul>
-</ul>    </td>
+        <li> ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) </li>  
+        <li> ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) </li>  
+        <li> ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) </li>  
+        <li> ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) </li>  
+        <li> ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFE730?style=flat-square&logo=mediapipe&logoColor=black) </li>
+      </ul>
+    </td>
   </tr>
 </table>
 
 ---
 
-### Tools  <ul>
-<li> ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  </li>
-<li> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)</li>  
-<li> ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) </li> 
-<li> ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) </li> 
-<li> ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  </li>
-<li> ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)</li> 
-<li> ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</li></ul>
+### Tools  
+<ul>
+  <li> ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) </li>
+  <li> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) </li>  
+  <li> ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) </li>  
+  <li> ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) </li>  
+  <li> ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) </li>
+  <li> ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) </li>  
+  <li> ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) </li>
+</ul>
 
 ---
 
@@ -98,4 +101,4 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
 
 ### 🌟 Let's Connect!  
 Feel free to explore my projects, share feedback, or collaborate on exciting AI/ML initiatives!  
-📩 [Email](mailto:kapsb27@gmail.com) | 🌟 [Follow Me](https://github.com/kbhumik27)  
+📩 [Email](mailto:kapsb27@gmail.com) | 🌟 [Follow Me](https://github.com/kbhumik27)
