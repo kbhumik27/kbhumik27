@@ -43,10 +43,6 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
 
 ---
 
----
-
----
-
 ## 🛠️ Technologies & Tools  
 
 <table>
@@ -55,13 +51,15 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Tools Animation" width="300">
     </td>
     <td>
-      ### Programming Languages  
-      ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-      ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-      ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-      ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-      ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+      <h3>Programming Languages</h3>
+      <p>
+        ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+        ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+        ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
+        ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+        ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+        ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+      </p>
     </td>
   </tr>
   <tr>
@@ -69,12 +67,14 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
       <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Framework Animation" width="300">
     </td>
     <td>
-      ### Frameworks & Libraries  
-      ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-      ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-      ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-      ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
-      ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFE730?style=flat-square&logo=mediapipe&logoColor=black)
+      <h3>Frameworks & Libraries</h3>
+      <p>
+        ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+        ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+        ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+        ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
+        ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFE730?style=flat-square&logo=mediapipe&logoColor=black)
+      </p>
     </td>
   </tr>
 </table>
@@ -99,4 +99,4 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
 
 ### 🌟 Let's Connect!  
 Feel free to explore my projects, share feedback, or collaborate on exciting AI/ML initiatives!  
-📩 [Email](kapsb27@gmail.com) | 🌟 [Follow Me](https://github.com/kbhumik27)  
+📩 [Email](mailto:kapsb27@gmail.com) | 🌟 [Follow Me](https://github.com/kbhumik27)  
