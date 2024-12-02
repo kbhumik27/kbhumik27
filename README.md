@@ -68,27 +68,26 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
     </td>
     <td>
       <h3>Frameworks & Libraries</h3>
-      <p><ul>
-        <li>![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) </li> 
-       <li> ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)</li>  
-        <li>![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)</li>  
-        <li>![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  </li>
-        <li>![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFE730?style=flat-square&logo=mediapipe&logoColor=black)</li></ul>
-      </p>
-    </td>
+      <ul>
+        <li> ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) </li> 
+       <li>  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)</li>  
+        <li> ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)</li>  
+        <li> ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  </li>
+        <li> ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFE730?style=flat-square&logo=mediapipe&logoColor=black)</li></ul>
+</ul>    </td>
   </tr>
 </table>
 
 ---
 
 ### Tools  <ul>
-<li>![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  </li>
-<li>![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)</li>  
-<li>![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) </li> 
-<li>![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) </li> 
-<li>![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  </li>
-<li>![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)</li> 
-<li>![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</li></ul>
+<li> ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  </li>
+<li> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)</li>  
+<li> ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) </li> 
+<li> ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) </li> 
+<li> ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  </li>
+<li> ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)</li> 
+<li> ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</li></ul>
 
 ---
 
