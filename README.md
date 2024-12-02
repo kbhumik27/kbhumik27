@@ -1,6 +1,7 @@
 
 # Hi Wassup 👋  
-![Header GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/coding.gif?raw=true)
+![image](https://github.com/user-attachments/assets/26a1529a-093a-4c8c-a88b-f78c7fd1ec2a)
+
 
 Welcome to my GitHub!  
 I'm a passionate **AI/ML developer** dedicated to crafting intelligent systems to solve real-world challenges. My core expertise lies in **Computer Vision**, **Pose Estimation**, and **AI-based applications** that make everyday life smarter.  
@@ -18,10 +19,10 @@ I also enjoy exploring **OCR**, building **chat applications**, and working on *
 ---
 
 ## 🛠️ Technologies & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Python]([https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![image](https://github.com/user-attachments/assets/75a48b5f-11bf-4d59-9d4d-624bf17ec33e)
 
 **Frameworks & Libraries**:  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
