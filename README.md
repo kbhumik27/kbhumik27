@@ -1,6 +1,3 @@
-Here’s a cool and visually appealing README for your GitHub, inspired by the linked repository's aesthetics and your preferences:
-
----
 
 # Hi Wassup 👋  
 ![Header GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/coding.gif?raw=true)
