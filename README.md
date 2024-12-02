@@ -20,7 +20,7 @@ I'm also enthusiastic about exploring **OCR**, building **chat applications**, a
       </ul>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="AI Animation" width="300">
+      <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="AI Animation" width="300">
     </td>
   </tr>
 </table>
