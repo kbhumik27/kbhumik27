@@ -4,8 +4,8 @@
 Welcome to my GitHub!  
 I'm a passionate **AI/ML Developer** dedicated to building intelligent systems that solve real-world challenges. My expertise includes **Computer Vision**, **Pose Estimation**, and **AI-based Applications** designed to make everyday life smarter and more efficient.
 
-I'm also enthusiastic about exploring **OCR**, building **chat applications**, and creating innovative solutions like **calorie detection systems**.
-I also like to work on various data science based projects
+<p> I'm also enthusiastic about exploring **OCR**, building **chat applications**, and creating innovative solutions like **calorie detection systems**.
+I also like to work on various data science based projects</p>
 ---
 
 <table>
